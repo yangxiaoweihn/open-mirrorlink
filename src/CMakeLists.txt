@@ -1,0 +1,2 @@
+SET(SRC_LIST "")
+ADD_EXECUTABLE(libmirrorlink ${SRC_LIST})
